@@ -1,6 +1,6 @@
 Name:		texlive-cheatsheet
 Version:	45069
-Release:	1
+Release:	2
 Summary:	A simple cheatsheet class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cheatsheet
